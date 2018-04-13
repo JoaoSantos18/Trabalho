@@ -1,0 +1,54 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	box-sizing: border-box;
+}
+
+.lembrancas {
+	background-color: #339999;
+	margin: 130px;
+	border: solid;
+	color: black;
+
+}
+
+.escola{
+	background-color: #339999;
+	padding:100px;
+	margin: 130px;
+	border: solid;color: black;
+
+}
+
+.teatro{
+	background-color: #339999;
+	padding:100px;
+	margin: 130px;
+	border: solid;color: black;
+}
+
+.petrobras{
+	background-color: #339999;
+	padding:100px;
+	margin: 130px;
+	border: solid;color: black;
+}
+
+.rir{
+	background-color: #339999;
+	padding:100px;
+	margin: 130px;
+	border: solid;color: black;
+}
+
+img{
+	width: 200px;
+	heigt: 100px;
+	margin: 100px;
+}
+
+display: flex;
+lign-items: center;
